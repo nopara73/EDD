@@ -19,7 +19,7 @@ ELSE IF you have high energy AND feel unpleasant about the code
   THEN you should review it, even if it's yours, but don't waste your energy refactoring it, find some other unpleasent code to review or implement something new, keep the momentum going until you're low on fuel, at which point you can start refactoring
 ```
 
-## Developer Note
+## Developer's Note
 
 If this concept excites you, feel free to work it out and start selling Fun Master Certification trainings, I just threw this idea out there in a unique way, IDK, it's probably stupid.
 
