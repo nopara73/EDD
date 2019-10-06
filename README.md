@@ -6,6 +6,23 @@ Emotion Driven Development (EDD) aims to uncover better ways of developing softw
 
 ![](https://i.imgur.com/ntvUL2g.png)
 
+## The Algorithm
+
+```
+IF you have high energy AND feel pleasant
+  THEN implement something new
+ELSE IF you have low energy AND feel pleasant
+  THEN 
+ELSE IF you have low energy AND feel unpleasant
+  THEN 
+ELSE IF you have high energy AND feel unpleasant
+  THEN   
+```
+
+## Developer Note
+
+If this concept excites you, feel free to work it out and start selling Fun Master Certification trainings, I just threw this idea out there in a unique way, IDK, it's probably stupid.
+
 ## References
 
 - [[0]](https://agilemanifesto.org/) The Agile Manifesto
