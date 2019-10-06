@@ -2,21 +2,21 @@
 
 Emotion Driven Development (EDD) aims to uncover better ways of developing software by combining the two most common abilities developers are said to possess: **systemic thinking** and **emotional intelligence**.
 
-**How do you feel?** Are you **energised** at the start of this day? Then you should be out there and **implementing** something new. Are you **satisfied** with your code? Not yet? Why? Did you get **tired**? Maybe **bored**? Or, are you **disappointed** of the results? Or even worse, you are outright **disgusted** by your code? If so, start **refactoring** now, until you feel more **pleasant** about it. Then don't forget to write some **tests** to solidify the consensus. Finally it's time to submit it for a **code review** and hope someone will have enough **energy** to spot the **unpleasant** bugs and smells.
+ You have a **task** at hand. **How do you feel about the code?** Are you excited to start working on it? Then you go ahead and **implement** it. Are you satisfied with this code? Not yet? Why? Did you get tired or bored? Or, are you **disappointed** of the results? Worse, you are outright disgusted by your code. If so, keep **refactoring** it until you feel more **pleasant** about it. Then don't forget to write some **tests** to solidify the API. Finally it's time to submit it for a **code review** and hope someone will have enough **energy** to spot the **unpleasant** bugs and smells.
 
-![](https://i.imgur.com/ntvUL2g.png)
+![](https://i.imgur.com/SGNBzuB.png)
 
 ## The Algorithm
 
 ```
-IF you have high energy AND feel pleasant
-  THEN implement something new
-ELSE IF you have low energy AND feel pleasant
-  THEN 
-ELSE IF you have low energy AND feel unpleasant
-  THEN 
-ELSE IF you have high energy AND feel unpleasant
-  THEN   
+IF you have high energy AND feel pleasant about the code
+  THEN implement, create something new
+ELSE IF you have low energy AND feel pleasant about the code
+  THEN write tests for code behavior you would not like to be changed easily, who knows, you may even uncover a bug or two that will make you feel unpleasant about it
+ELSE IF you have low energy AND feel unpleasant about the code
+  THEN you should keep refactoring it until you feel pleasant about it
+ELSE IF you have high energy AND feel unpleasant about the code
+  THEN you should review it, even if it's yours, but don't waste your energy refactoring it, find some other unpleasent code to review or implement something new, keep the momentum going until you're low on fuel, at which point you can start refactoring
 ```
 
 ## Developer Note
